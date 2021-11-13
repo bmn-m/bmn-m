@@ -2,7 +2,6 @@ Hi, I’m a german IT Business Manager.
 
 I’m interested in DevOps.
 
-I’m currently learning for LPIC2.
 
 
 <!---
